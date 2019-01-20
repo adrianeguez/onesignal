@@ -1,5 +1,7 @@
 {
   "name": "one-signal",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
